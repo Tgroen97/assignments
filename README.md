@@ -8,3 +8,5 @@ This repository contains my assignments
 [assingment 4](https://github.com/Tgroen97/assignments/blob/master/assignment4-checkpoint.ipynb)
 
 [assignment 5](https://github.com/Tgroen97/assignments/blob/master/assignment5-checkpoint.ipynb)
+
+[assignment 6](https://github.com/Tgroen97/assignments/blob/master/Graded_assignment_2-checkpoint.ipynb)
