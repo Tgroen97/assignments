@@ -10,3 +10,7 @@ This repository contains my assignments
 [assignment 5](https://github.com/Tgroen97/assignments/blob/master/assignment5-checkpoint.ipynb)
 
 [assignment 6](https://github.com/Tgroen97/assignments/blob/master/Graded_assignment_2-checkpoint.ipynb)
+
+[R exam](https://github.com/Tgroen97/assignments/blob/master/Exam_student-checkpoint.ipynb)
+
+[Python exam](https://github.com/Tgroen97/assignments/blob/master/exam_june_7_2018%20(1)-checkpoint.ipynb)
